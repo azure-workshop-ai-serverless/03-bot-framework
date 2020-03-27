@@ -1,1 +1,1 @@
-# 03-bot-framework
+# LAB 03 - Bot framework
